@@ -1,2 +1,1 @@
-# sample_website
-A sample website for Learn Enough HTML to Be Dangerous
+This site will be the beginning of my web design portfolio, simple, clean, practise baby.
